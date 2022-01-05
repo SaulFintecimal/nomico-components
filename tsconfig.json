@@ -21,7 +21,8 @@
     "paths": {
       "@nomico/ui/*": ["./packages/nomico-ui/*"],
       "@nomico/ui": ["./packages/nomico-ui"],
-      // "@nomico/hooks/*": ["packages/nomico-hooks/*"],
+      "@nomico/hooks/*": ["packages/nomico-hooks/*"],
+      "@nomico/hooks": ["packages/nomico-hooks"],
     },
   }
 }
