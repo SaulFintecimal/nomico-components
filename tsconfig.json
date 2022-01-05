@@ -19,10 +19,10 @@
 
     "baseUrl": "./",
     "paths": {
-      "@nomico/ui/*": ["./packages/nomico-ui/*"],
-      "@nomico/ui": ["./packages/nomico-ui"],
-      "@nomico/hooks/*": ["packages/nomico-hooks/*"],
-      "@nomico/hooks": ["packages/nomico-hooks"],
+      "@nomico/core/ui/*": ["./packages/nomico-ui/*"],
+      "@nomico/core/ui": ["./packages/nomico-ui"],
+      "@nomico/core/hooks/*": ["packages/nomico-hooks/*"],
+      "@nomico/core/hooks": ["packages/nomico-hooks"],
     },
   }
 }
