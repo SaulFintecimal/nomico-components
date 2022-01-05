@@ -1,5 +1,5 @@
 {
-  "name": "@nomico/core",
+  "name": "nomico-components",
   "version": "0.0.1",
   "description": "React components library",
   "scripts": {
