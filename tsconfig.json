@@ -16,8 +16,9 @@
     "moduleResolution": "node",
     "allowSyntheticDefaultImports": true,
     "emitDeclarationOnly": true,
+    "isolatedModules": false,
 
-    "baseUrl": "./",
+    "baseUrl": "./packages",
     "paths": {
       "@nomico/core/ui/*": ["./packages/nomico-ui/*"],
       "@nomico/core/ui": ["./packages/nomico-ui"],
